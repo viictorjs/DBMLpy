@@ -1,2 +1,2 @@
 # DBMLpy
-A Python based program to calculate the Curie surface from magnetic data
+A Python software to compute the depth to the bottom of magnetic layer from magnectic anomaly data using the de-fractal method.
